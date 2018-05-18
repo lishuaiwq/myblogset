@@ -2,7 +2,7 @@
 title: ARP协议
 date: 2018-05-17 15:55:10
 tags: 
-catgories: 
+categories: 
 - 网络学习
 - 网络层
 ---
